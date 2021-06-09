@@ -1,0 +1,15 @@
+{
+    "name": "developer/reportes",
+    "description": "API Woocommerce Joinet",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Francisco Ayapantecalth",
+            "email": "jfcruz@outlook.com"
+        }
+    ],
+    "require": {
+        "automattic/woocommerce": "^3.0",
+        "spipu/html2pdf": "^5.2"
+    }
+}
